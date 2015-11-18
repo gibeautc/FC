@@ -1,4 +1,4 @@
-PRG            =uC_code
+PRG            =FC_code
 
 OBJ            = $(PRG).o
 
